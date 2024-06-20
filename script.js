@@ -1,7 +1,37 @@
 document.addEventListener('DOMContentLoaded', () => {
     const patterns = [
         { title: 'Pattern 1', image: 'https://via.placeholder.com/300', code: '/* CSS Code for Pattern 1 */' },
-        { title: 'Pattern 2', image: 'https://via.placeholder.com/300', code: '/* CSS Code for Pattern 2 */' },
+        { title: 'Pattern 2', image: 'https://via.placeholder.com/300', code: '/* CSS Code for Pattern 1 */' },
+        { title: 'Pattern 3', image: 'https://via.placeholder.com/300', code: '/* CSS Code for Pattern 1 */' },
+        { title: 'Pattern 4', image: 'https://via.placeholder.com/300', code: '/* CSS Code for Pattern 1 */' },
+        { title: 'Pattern 5', image: 'https://via.placeholder.com/300', code: '/* CSS Code for Pattern 1 */' },
+        { title: 'Pattern 6', image: 'https://via.placeholder.com/300', code: '/* CSS Code for Pattern 1 */' },
+        { title: 'Pattern 7', image: 'https://via.placeholder.com/300', code: '/* CSS Code for Pattern 1 */' },
+        { title: 'Pattern 8', image: 'https://via.placeholder.com/300', code: '/* CSS Code for Pattern 1 */' },
+        { title: 'Pattern 9', image: 'https://via.placeholder.com/300', code: '/* CSS Code for Pattern 1 */' },
+        { title: 'Pattern 10', image: 'https://via.placeholder.com/300', code: '/* CSS Code for Pattern 1 */' },
+        { title: 'Pattern 11', image: 'https://via.placeholder.com/300', code: '/* CSS Code for Pattern 1 */' },
+        { title: 'Pattern 12', image: 'https://via.placeholder.com/300', code: '/* CSS Code for Pattern 1 */' },
+        { title: 'Pattern 13', image: 'https://via.placeholder.com/300', code: '/* CSS Code for Pattern 1 */' },
+        { title: 'Pattern 14', image: 'https://via.placeholder.com/300', code: '/* CSS Code for Pattern 1 */' },
+        { title: 'Pattern 15', image: 'https://via.placeholder.com/300', code: '/* CSS Code for Pattern 1 */' },
+        { title: 'Pattern 16', image: 'https://via.placeholder.com/300', code: '/* CSS Code for Pattern 1 */' },
+        { title: 'Pattern 17', image: 'https://via.placeholder.com/300', code: '/* CSS Code for Pattern 1 */' },
+        { title: 'Pattern 18', image: 'https://via.placeholder.com/300', code: '/* CSS Code for Pattern 1 */' },
+        { title: 'Pattern 19', image: 'https://via.placeholder.com/300', code: '/* CSS Code for Pattern 1 */' },
+        { title: 'Pattern 20', image: 'https://via.placeholder.com/300', code: '/* CSS Code for Pattern 1 */' },
+        { title: 'Pattern 21', image: 'https://via.placeholder.com/300', code: '/* CSS Code for Pattern 1 */' },
+        { title: 'Pattern 22', image: 'https://via.placeholder.com/300', code: '/* CSS Code for Pattern 1 */' },
+        { title: 'Pattern 7', image: 'https://via.placeholder.com/300', code: '/* CSS Code for Pattern 1 */' },
+        { title: 'Pattern 7', image: 'https://via.placeholder.com/300', code: '/* CSS Code for Pattern 1 */' },
+        { title: 'Pattern 7', image: 'https://via.placeholder.com/300', code: '/* CSS Code for Pattern 1 */' },
+        { title: 'Pattern 7', image: 'https://via.placeholder.com/300', code: '/* CSS Code for Pattern 1 */' },
+        { title: 'Pattern 7', image: 'https://via.placeholder.com/300', code: '/* CSS Code for Pattern 1 */' },
+        { title: 'Pattern 7', image: 'https://via.placeholder.com/300', code: '/* CSS Code for Pattern 1 */' },
+
+   
+
+
         // Add more patterns here
     ];
 

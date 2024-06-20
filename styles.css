@@ -389,3 +389,101 @@ footer a:hover {
         opacity: 1;
     }
 }
+
+
+/* Existing CSS styles */
+
+/* Existing CSS styles */
+
+.contact {
+    text-align: center;
+    padding: 2rem 1rem;
+    background-color: #111111;
+    color: #FFFFFF;
+}
+
+.contact h2 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+}
+
+.contact-form {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.contact-form form {
+    display: grid;
+    gap: 1rem;
+}
+
+.contact-form input,
+.contact-form textarea {
+    width: calc(100% - 20px);
+    padding: 10px;
+    font-size: 1rem;
+    border: none;
+    border-radius: 5px;
+    background-color: #222222;
+    color: #FFFFFF;
+}
+
+.contact-form textarea {
+    resize: vertical;
+}
+
+.contact-form button {
+    width: 100%;
+}
+
+.social-links {
+    margin: 2rem auto;
+    max-width: 200px;
+}
+
+.social-links a {
+    font-size: 1.5rem;
+    margin: 0.5rem;
+    color: #007BFF;
+    transition: color 0.3s ease, transform 0.3s ease;
+}
+
+.social-links a:hover {
+    color: #0056b3;
+    transform: scale(1.2);
+}
+
+.newsletter-signup {
+    max-width: 600px;
+    margin: 2rem auto;
+    text-align: center;
+}
+
+.newsletter-signup h3 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+.newsletter-signup form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+.newsletter-signup input {
+    width: 250px;
+    padding: 10px;
+    font-size: 1rem;
+    border: none;
+    border-radius: 5px;
+    background-color: #222222;
+    color: #FFFFFF;
+}
+
+.newsletter-signup button {
+    padding: 10px 20px;
+    font-size: 1rem;
+}
+
+/* Existing CSS continues */
