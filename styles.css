@@ -522,7 +522,7 @@ footer a:hover {
     }
 
     .hero p {
-        font-size: 0.9em; /* Adjusted font size for mobile */
+        font-size: 1.0em; /* Adjusted font size for mobile */
     }
 
     .btn-group {
@@ -605,5 +605,31 @@ footer a:hover {
     100% {
         transform: scale(1);
         opacity: 1;
+    }
+}
+
+
+
+
+
+
+@keyframes pulse-border {
+    0% {
+        transform: scale(1);
+        opacity: 1;
+    }
+    50% {
+        transform: scale(1.05);
+        opacity: 0.7;
+    }
+    100% {
+        transform: scale(1);
+        opacity: 1;
+    }
+}
+
+@media (max-width: 768px) {
+    .pattern-grid .card, .background-grid .card {
+        width: calc(100% - 20px); /* Full width minus margin */
     }
 }
