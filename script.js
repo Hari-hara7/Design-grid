@@ -192,7 +192,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         { 
             title: 'Pattern 27', 
-            image: 'https://via.placeholder.com/300', 
+            image: 'Untitled - Google Chrome 6_20_2024 9_40_38 PM.png', 
             githubLink: 'https://github.com/your-repo/pattern-2',
             previewLink: 'https://your-preview-link/pattern-2',
             description: 'Description for Pattern 2. Phasellus consequat neque a nibh faucibus, sit amet finibus ante malesuada.'
@@ -201,11 +201,28 @@ document.addEventListener('DOMContentLoaded', () => {
 
         { 
             title: 'Pattern 28', 
-            image: 'https://via.placeholder.com/300', 
+            image: 'Untitled - Google Chrome 6_20_2024 9_44_14 PM.png', 
             githubLink: 'https://github.com/your-repo/pattern-2',
             previewLink: 'https://your-preview-link/pattern-2',
             description: 'Description for Pattern 2. Phasellus consequat neque a nibh faucibus, sit amet finibus ante malesuada.'
         },
+
+        { 
+            title: 'Pattern 29', 
+            image: 'Untitled - Google Chrome 6_20_2024 9_45_11 PM.png', 
+            githubLink: 'https://github.com/your-repo/pattern-2',
+            previewLink: 'https://your-preview-link/pattern-2',
+            description: 'Description for Pattern 2. Phasellus consequat neque a nibh faucibus, sit amet finibus ante malesuada.'
+        },
+
+        { 
+            title: 'Pattern 30', 
+            image: 'Untitled - Google Chrome 6_20_2024 9_46_23 PM.png', 
+            githubLink: 'https://github.com/your-repo/pattern-2',
+            previewLink: 'https://your-preview-link/pattern-2',
+            description: 'Description for Pattern 2. Phasellus consequat neque a nibh faucibus, sit amet finibus ante malesuada.'
+        },
+
         // Add more patterns here
     ];
 
