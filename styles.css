@@ -610,6 +610,66 @@ footer a:hover {
 
 
 
+/* styles.css */
+
+.burger {
+    display: none; /* Initially hide the burger menu on larger screens */
+    cursor: pointer;
+}
+
+.burger .line1,
+.burger .line2,
+.burger .line3 {
+    width: 25px;
+    height: 3px;
+    background-color: #ffffff;
+    margin: 4px;
+    transition: transform 0.4s ease;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+}
+
+@media (max-width: 768px) {
+    .nav-links {
+        display: none; /* Hide navigation links on smaller screens initially */
+        flex-direction: column;
+        align-items: center;
+        background-color: #000000;
+        position: absolute;
+        top: 60px;
+        left: 0;
+        width: 100%;
+        padding: 1rem 0;
+        z-index: 1;
+    }
+
+    .nav-links.active {
+        display: flex; /* Show navigation links when .active class is added */
+    }
+
+    .burger {
+        display: block; /* Show burger menu on smaller screens */
+    }
+
+    .burger.active .line1 {
+        transform: rotate(-45deg) translate(-5px, 6px);
+    }
+
+    .burger.active .line2 {
+        opacity: 0;
+    }
+
+    .burger.active .line3 {
+        transform: rotate(45deg) translate(-5px, -6px);
+    }
+}
+
+
+
 
 
 

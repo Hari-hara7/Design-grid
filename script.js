@@ -252,3 +252,27 @@ document.addEventListener('DOMContentLoaded', () => {
     // Generate background cards
     generateCards(backgrounds, '.background-grid');
 });
+
+
+
+
+// script.js
+
+document.addEventListener('DOMContentLoaded', () => {
+    const burger = document.querySelector('.burger');
+    const navLinks = document.querySelector('.nav-links');
+
+    burger.addEventListener('click', () => {
+        // Toggle the active class on both burger menu and nav links
+        burger.classList.toggle('active');
+        navLinks.classList.toggle('active');
+    });
+
+    // Close the navigation menu if a nav link is clicked (optional)
+    navLinks.querySelectorAll('a').forEach(link => {
+        link.addEventListener('click', () => {
+            burger.classList.remove('active');
+            navLinks.classList.remove('active');
+        });
+    });
+});
