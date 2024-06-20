@@ -256,7 +256,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <img src="${item.image}" alt="${item.title}">
                 <h3>${item.title}</h3>
                 <p>${item.description}</p>
-                <a href="${item.githubLink}" target="_blank" class="btn primary">View on GitHub</a>
+                <a href="${item.githubLink}" target="_blank" class="btn primary">Get Source Code </a>
                 <a href="${item.previewLink}" target="_blank" class="btn secondary">Preview in Chrome</a>
             `;
             container.appendChild(card);
