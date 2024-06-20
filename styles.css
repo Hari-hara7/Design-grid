@@ -487,3 +487,61 @@ footer a:hover {
 }
 
 /* Existing CSS continues */
+
+@keyframes glow {
+    from {
+        text-shadow: 0 0 5px #00f, 0 0 10px #00f, 0 0 15px #00f, 0 0 20px #00f, 0 0 25px #00f, 0 0 30px #00f, 0 0 35px #00f;
+    }
+    to {
+        text-shadow: 0 0 20px #00f, 0 0 30px #00f, 0 0 40px #00f, 0 0 50px #00f, 0 0 60px #00f, 0 0 70px #00f, 0 0 80px #00f;
+    }
+}
+
+.hero p {
+    font-size: 1em; /* Default font size */
+}
+
+.btn-group {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px; /* Adjust margin as needed */
+}
+
+.hero .btn {
+    font-size: 0.9em; /* Default font size for buttons */
+    padding: 10px 20px; /* Example padding for buttons */
+    margin: 0 10px; /* Example margin between buttons */
+}
+
+/* Media query for screens smaller than 768px (mobile screens) */
+@media (max-width: 768px) {
+    .hero h1 {
+        font-size: 1.7em; /* Adjusted font size for mobile */
+    }
+
+    .hero p {
+        font-size: 0.9em; /* Adjusted font size for mobile */
+    }
+
+    .btn-group {
+        flex-direction: column;
+    }
+
+    .hero .btn {
+        font-size: 0.8em; /* Adjusted font size for mobile buttons */
+        margin: 5px; /* Example margin for mobile buttons */
+    }
+}
+
+
+
+
+
+
+
+
+.gradient-text {
+    background: linear-gradient(to right, white, blue);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
