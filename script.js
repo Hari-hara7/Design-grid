@@ -22,12 +22,14 @@ document.addEventListener('DOMContentLoaded', () => {
         { title: 'Pattern 20', image: 'https://via.placeholder.com/300', code: '/* CSS Code for Pattern 1 */' },
         { title: 'Pattern 21', image: 'https://via.placeholder.com/300', code: '/* CSS Code for Pattern 1 */' },
         { title: 'Pattern 22', image: 'https://via.placeholder.com/300', code: '/* CSS Code for Pattern 1 */' },
-        { title: 'Pattern 7', image: 'https://via.placeholder.com/300', code: '/* CSS Code for Pattern 1 */' },
-        { title: 'Pattern 7', image: 'https://via.placeholder.com/300', code: '/* CSS Code for Pattern 1 */' },
-        { title: 'Pattern 7', image: 'https://via.placeholder.com/300', code: '/* CSS Code for Pattern 1 */' },
-        { title: 'Pattern 7', image: 'https://via.placeholder.com/300', code: '/* CSS Code for Pattern 1 */' },
-        { title: 'Pattern 7', image: 'https://via.placeholder.com/300', code: '/* CSS Code for Pattern 1 */' },
-        { title: 'Pattern 7', image: 'https://via.placeholder.com/300', code: '/* CSS Code for Pattern 1 */' },
+        { title: 'Pattern 23', image: 'https://via.placeholder.com/300', code: '/* CSS Code for Pattern 1 */' },
+        { title: 'Pattern 24', image: 'https://via.placeholder.com/300', code: '/* CSS Code for Pattern 1 */' },
+        { title: 'Pattern 25', image: 'https://via.placeholder.com/300', code: '/* CSS Code for Pattern 1 */' },
+        { title: 'Pattern 26', image: 'https://via.placeholder.com/300', code: '/* CSS Code for Pattern 1 */' },
+        { title: 'Pattern 27', image: 'https://via.placeholder.com/300', code: '/* CSS Code for Pattern 1 */' },
+        { title: 'Pattern 28', image: 'https://via.placeholder.com/300', code: '/* CSS Code for Pattern 1 */' },
+        { title: 'Pattern 29', image: 'https://via.placeholder.com/300', code: '/* CSS Code for Pattern 1 */' },
+        { title: 'Pattern 30', image: 'https://via.placeholder.com/300', code: '/* CSS Code for Pattern 1 */' },
 
    
 
@@ -38,6 +40,44 @@ document.addEventListener('DOMContentLoaded', () => {
     const backgrounds = [
         { title: 'Background 1', image: 'https://via.placeholder.com/300', code: '<!-- HTML/JS Code for Background 1 -->' },
         { title: 'Background 2', image: 'https://via.placeholder.com/300', code: '<!-- HTML/JS Code for Background 2 -->' },
+        { title: 'Background 3', image: 'https://via.placeholder.com/300', code: '<!-- HTML/JS Code for Background 2 -->' },
+        { title: 'Background 4', image: 'https://via.placeholder.com/300', code: '<!-- HTML/JS Code for Background 2 -->' },
+        { title: 'Background 5', image: 'https://via.placeholder.com/300', code: '<!-- HTML/JS Code for Background 2 -->' },
+        { title: 'Background 6', image: 'https://via.placeholder.com/300', code: '<!-- HTML/JS Code for Background 2 -->' },
+        { title: 'Background 7', image: 'https://via.placeholder.com/300', code: '<!-- HTML/JS Code for Background 2 -->' },
+        { title: 'Background 8', image: 'https://via.placeholder.com/300', code: '<!-- HTML/JS Code for Background 2 -->' },
+        { title: 'Background 9', image: 'https://via.placeholder.com/300', code: '<!-- HTML/JS Code for Background 2 -->' },
+        { title: 'Background 10', image: 'https://via.placeholder.com/300', code: '<!-- HTML/JS Code for Background 2 -->' },
+        { title: 'Background 11', image: 'https://via.placeholder.com/300', code: '<!-- HTML/JS Code for Background 2 -->' },
+
+        { title: 'Background 12', image: 'https://via.placeholder.com/300', code: '<!-- HTML/JS Code for Background 2 -->' },
+
+        { title: 'Background 13', image: 'https://via.placeholder.com/300', code: '<!-- HTML/JS Code for Background 2 -->' },
+
+        { title: 'Background 14', image: 'https://via.placeholder.com/300', code: '<!-- HTML/JS Code for Background 2 -->' },
+
+        { title: 'Background 15', image: 'https://via.placeholder.com/300', code: '<!-- HTML/JS Code for Background 2 -->' },
+
+        { title: 'Background 16', image: 'https://via.placeholder.com/300', code: '<!-- HTML/JS Code for Background 2 -->' },
+        { title: 'Background 17', image: 'https://via.placeholder.com/300', code: '<!-- HTML/JS Code for Background 2 -->' },
+
+        { title: 'Background 18', image: 'https://via.placeholder.com/300', code: '<!-- HTML/JS Code for Background 2 -->' },
+
+        { title: 'Background 20', image: 'https://via.placeholder.com/300', code: '<!-- HTML/JS Code for Background 2 -->' },
+
+        { title: 'Background 21', image: 'https://via.placeholder.com/300', code: '<!-- HTML/JS Code for Background 2 -->' },
+
+        { title: 'Background 22', image: 'https://via.placeholder.com/300', code: '<!-- HTML/JS Code for Background 2 -->' },
+
+        { title: 'Background 23', image: 'https://via.placeholder.com/300', code: '<!-- HTML/JS Code for Background 2 -->' },
+
+        { title: 'Background 24', image: 'https://via.placeholder.com/300', code: '<!-- HTML/JS Code for Background 2 -->' },
+        { title: 'Background 25', image: 'https://via.placeholder.com/300', code: '<!-- HTML/JS Code for Background 2 -->' },
+        { title: 'Background 26', image: 'https://via.placeholder.com/300', code: '<!-- HTML/JS Code for Background 2 -->' },
+        { title: 'Background 27', image: 'https://via.placeholder.com/300', code: '<!-- HTML/JS Code for Background 2 -->' },
+
+
+
         // Add more backgrounds here
     ];
 
