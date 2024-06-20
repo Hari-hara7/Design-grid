@@ -10,50 +10,50 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         { 
             title: 'Pattern 2', 
-            image: 'https://via.placeholder.com/300', 
-            githubLink: 'https://github.com/your-repo/pattern-2',
-            previewLink: 'https://hari-hara7.github.io/pattern-background-web-1-/',
-            description: 'Description for Pattern 2. Phasellus consequat neque a nibh faucibus, sit amet finibus ante malesuada.'
+            image: 'Attractive Patterned Background - Google Chrome 6_20_2024 8_51_02 PM.png', 
+            githubLink: 'https://github.com/Hari-hara7/pattern-background-web-2.git',
+            previewLink: 'https://hari-hara7.github.io/pattern-background-web-2/',
+            description: 'This is an example of an attractive patterned background using CSS gradients and patterns.'
         },
 
         { 
-            title: 'Pattern 2', 
-            image: 'https://via.placeholder.com/300', 
-            githubLink: 'https://github.com/your-repo/pattern-2',
-            previewLink: 'https://your-preview-link/pattern-2',
-            description: 'Description for Pattern 2. Phasellus consequat neque a nibh faucibus, sit amet finibus ante malesuada.'
+            title: 'Pattern 3', 
+            image: 'Classic Patterned Background - Google Chrome 6_20_2024 8_52_48 PM.png', 
+            githubLink: 'https://github.com/Hari-hara7/pattern-background-web-3.git',
+            previewLink: 'https://hari-hara7.github.io/pattern-background-web-3/',
+            description: 'This is an example of a classic patterned background with a subtle damask-inspired pattern.'
         },
 
         { 
-            title: 'Pattern 2', 
-            image: 'https://via.placeholder.com/300', 
+            title: 'Pattern 4', 
+            image: 'Classic Striped Background Pattern - Google Chrome 6_20_2024 8_54_31 PM.png', 
             githubLink: 'https://github.com/your-repo/pattern-2',
             previewLink: 'https://your-preview-link/pattern-2',
             description: 'Description for Pattern 2. Phasellus consequat neque a nibh faucibus, sit amet finibus ante malesuada.'
         },
         { 
-            title: 'Pattern 2', 
-            image: 'https://via.placeholder.com/300', 
+            title: 'Pattern 5', 
+            image: 'Untitled - Google Chrome 6_20_2024 8_56_17 PM.png', 
             githubLink: 'https://github.com/your-repo/pattern-2',
             previewLink: 'https://your-preview-link/pattern-2',
             description: 'Description for Pattern 2. Phasellus consequat neque a nibh faucibus, sit amet finibus ante malesuada.'
         },
         { 
-            title: 'Pattern 2', 
-            image: 'https://via.placeholder.com/300', 
+            title: 'Pattern 6', 
+            image: 'Untitled - Google Chrome 6_20_2024 8_58_53 PM.png', 
             githubLink: 'https://github.com/your-repo/pattern-2',
             previewLink: 'https://your-preview-link/pattern-2',
             description: 'Description for Pattern 2. Phasellus consequat neque a nibh faucibus, sit amet finibus ante malesuada.'
         },
         { 
-            title: 'Pattern 2', 
-            image: 'https://via.placeholder.com/300', 
+            title: 'Pattern 7', 
+            image: 'Constellation Background Pattern - Google Chrome 6_20_2024 9_01_15 PM.png', 
             githubLink: 'https://github.com/your-repo/pattern-2',
             previewLink: 'https://your-preview-link/pattern-2',
             description: 'Description for Pattern 2. Phasellus consequat neque a nibh faucibus, sit amet finibus ante malesuada.'
         },
         { 
-            title: 'Pattern 2', 
+            title: 'Pattern 8', 
             image: 'https://via.placeholder.com/300', 
             githubLink: 'https://github.com/your-repo/pattern-2',
             previewLink: 'https://your-preview-link/pattern-2',
