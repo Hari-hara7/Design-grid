@@ -81,118 +81,93 @@ document.addEventListener('DOMContentLoaded', () => {
             description: 'Description for Pattern 2. Phasellus consequat neque a nibh faucibus, sit amet finibus ante malesuada.'
         },
         { 
-            title: 'Pattern 2', 
-            image: 'https://via.placeholder.com/300', 
+            title: 'Pattern 12', 
+            image: 'Untitled - Google Chrome 6_20_2024 9_18_38 PM.png', 
             githubLink: 'https://github.com/your-repo/pattern-2',
             previewLink: 'https://your-preview-link/pattern-2',
             description: 'Description for Pattern 2. Phasellus consequat neque a nibh faucibus, sit amet finibus ante malesuada.'
         },
         { 
-            title: 'Pattern 2', 
-            image: 'https://via.placeholder.com/300', 
+            title: 'Pattern 13', 
+            image: 'Untitled - Google Chrome 6_20_2024 9_20_25 PM.png', 
             githubLink: 'https://github.com/your-repo/pattern-2',
             previewLink: 'https://your-preview-link/pattern-2',
             description: 'Description for Pattern 2. Phasellus consequat neque a nibh faucibus, sit amet finibus ante malesuada.'
         },
         { 
-            title: 'Pattern 2', 
-            image: 'https://via.placeholder.com/300', 
+            title: 'Pattern 14', 
+            image: 'Untitled - Google Chrome 6_20_2024 9_22_33 PM.png', 
             githubLink: 'https://github.com/your-repo/pattern-2',
             previewLink: 'https://your-preview-link/pattern-2',
             description: 'Description for Pattern 2. Phasellus consequat neque a nibh faucibus, sit amet finibus ante malesuada.'
         },
         { 
-            title: 'Pattern 2', 
-            image: 'https://via.placeholder.com/300', 
+            title: 'Pattern 15', 
+            image: 'Untitled - Google Chrome 6_20_2024 9_23_37 PM.png', 
             githubLink: 'https://github.com/your-repo/pattern-2',
             previewLink: 'https://your-preview-link/pattern-2',
             description: 'Description for Pattern 2. Phasellus consequat neque a nibh faucibus, sit amet finibus ante malesuada.'
         },
         { 
-            title: 'Pattern 2', 
-            image: 'https://via.placeholder.com/300', 
+            title: 'Pattern 16', 
+            image: 'Untitled - Google Chrome 6_20_2024 9_24_29 PM.png', 
             githubLink: 'https://github.com/your-repo/pattern-2',
             previewLink: 'https://your-preview-link/pattern-2',
             description: 'Description for Pattern 2. Phasellus consequat neque a nibh faucibus, sit amet finibus ante malesuada.'
         },
         { 
-            title: 'Pattern 2', 
-            image: 'https://via.placeholder.com/300', 
-            githubLink: 'https://github.com/your-repo/pattern-2',
-            previewLink: 'https://your-preview-link/pattern-2',
-            description: 'Description for Pattern 2. Phasellus consequat neque a nibh faucibus, sit amet finibus ante malesuada.'
-        },
-
-        { 
-            title: 'Pattern 2', 
-            image: 'https://via.placeholder.com/300', 
-            githubLink: 'https://github.com/your-repo/pattern-2',
-            previewLink: 'https://your-preview-link/pattern-2',
-            description: 'Description for Pattern 2. Phasellus consequat neque a nibh faucibus, sit amet finibus ante malesuada.'
-        },
-        { 
-            title: 'Pattern 2', 
-            image: 'https://via.placeholder.com/300', 
-            githubLink: 'https://github.com/your-repo/pattern-2',
-            previewLink: 'https://your-preview-link/pattern-2',
-            description: 'Description for Pattern 2. Phasellus consequat neque a nibh faucibus, sit amet finibus ante malesuada.'
-        },
-        { 
-            title: 'Pattern 2', 
-            image: 'https://via.placeholder.com/300', 
-            githubLink: 'https://github.com/your-repo/pattern-2',
-            previewLink: 'https://your-preview-link/pattern-2',
-            description: 'Description for Pattern 2. Phasellus consequat neque a nibh faucibus, sit amet finibus ante malesuada.'
-        },
-        { 
-            title: 'Pattern 2', 
-            image: 'https://via.placeholder.com/300', 
-            githubLink: 'https://github.com/your-repo/pattern-2',
-            previewLink: 'https://your-preview-link/pattern-2',
-            description: 'Description for Pattern 2. Phasellus consequat neque a nibh faucibus, sit amet finibus ante malesuada.'
-        },
-        { 
-            title: 'Pattern 2', 
-            image: 'https://via.placeholder.com/300', 
-            githubLink: 'https://github.com/your-repo/pattern-2',
-            previewLink: 'https://your-preview-link/pattern-2',
-            description: 'Description for Pattern 2. Phasellus consequat neque a nibh faucibus, sit amet finibus ante malesuada.'
-        },
-        { 
-            title: 'Pattern 2', 
-            image: 'https://via.placeholder.com/300', 
-            githubLink: 'https://github.com/your-repo/pattern-2',
-            previewLink: 'https://your-preview-link/pattern-2',
-            description: 'Description for Pattern 2. Phasellus consequat neque a nibh faucibus, sit amet finibus ante malesuada.'
-        },
-        { 
-            title: 'Pattern 2', 
-            image: 'https://via.placeholder.com/300', 
-            githubLink: 'https://github.com/your-repo/pattern-2',
-            previewLink: 'https://your-preview-link/pattern-2',
-            description: 'Description for Pattern 2. Phasellus consequat neque a nibh faucibus, sit amet finibus ante malesuada.'
-        },
-
-
-        { 
-            title: 'Pattern 2', 
-            image: 'https://via.placeholder.com/300', 
+            title: 'Pattern 17', 
+            image: 'Untitled - Google Chrome 6_20_2024 9_26_58 PM.png', 
             githubLink: 'https://github.com/your-repo/pattern-2',
             previewLink: 'https://your-preview-link/pattern-2',
             description: 'Description for Pattern 2. Phasellus consequat neque a nibh faucibus, sit amet finibus ante malesuada.'
         },
 
         { 
-            title: 'Pattern 2', 
-            image: 'https://via.placeholder.com/300', 
+            title: 'Pattern 18', 
+            image: 'Untitled - Google Chrome 6_20_2024 9_27_50 PM.png', 
             githubLink: 'https://github.com/your-repo/pattern-2',
             previewLink: 'https://your-preview-link/pattern-2',
             description: 'Description for Pattern 2. Phasellus consequat neque a nibh faucibus, sit amet finibus ante malesuada.'
         },
-
         { 
-            title: 'Pattern 2', 
-            image: 'https://via.placeholder.com/300', 
+            title: 'Pattern 19', 
+            image: 'Untitled - Google Chrome 6_20_2024 9_29_53 PM.png', 
+            githubLink: 'https://github.com/your-repo/pattern-2',
+            previewLink: 'https://your-preview-link/pattern-2',
+            description: 'Description for Pattern 2. Phasellus consequat neque a nibh faucibus, sit amet finibus ante malesuada.'
+        },
+        { 
+            title: 'Pattern 20', 
+            image: 'Untitled - Google Chrome 6_20_2024 9_30_53 PM.png', 
+            githubLink: 'https://github.com/your-repo/pattern-2',
+            previewLink: 'https://your-preview-link/pattern-2',
+            description: 'Description for Pattern 2. Phasellus consequat neque a nibh faucibus, sit amet finibus ante malesuada.'
+        },
+        { 
+            title: 'Pattern 21', 
+            image: 'Untitled - Google Chrome 6_20_2024 9_32_00 PM.png', 
+            githubLink: 'https://github.com/your-repo/pattern-2',
+            previewLink: 'https://your-preview-link/pattern-2',
+            description: 'Description for Pattern 2. Phasellus consequat neque a nibh faucibus, sit amet finibus ante malesuada.'
+        },
+        { 
+            title: 'Pattern 22', 
+            image: 'Untitled - Google Chrome 6_20_2024 9_32_52 PM.png', 
+            githubLink: 'https://github.com/your-repo/pattern-2',
+            previewLink: 'https://your-preview-link/pattern-2',
+            description: 'Description for Pattern 2. Phasellus consequat neque a nibh faucibus, sit amet finibus ante malesuada.'
+        },
+        { 
+            title: 'Pattern 23', 
+            image: 'Untitled - Google Chrome 6_20_2024 9_32_52 PM.png', 
+            githubLink: 'https://github.com/your-repo/pattern-2',
+            previewLink: 'https://your-preview-link/pattern-2',
+            description: 'Description for Pattern 2. Phasellus consequat neque a nibh faucibus, sit amet finibus ante malesuada.'
+        },
+        { 
+            title: 'Pattern 24', 
+            image: 'Tech Blog - Google Chrome 6_20_2024 9_35_33 PM.png', 
             githubLink: 'https://github.com/your-repo/pattern-2',
             previewLink: 'https://your-preview-link/pattern-2',
             description: 'Description for Pattern 2. Phasellus consequat neque a nibh faucibus, sit amet finibus ante malesuada.'
@@ -200,7 +175,32 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
         { 
-            title: 'Pattern 2', 
+            title: 'Pattern 25', 
+            image: 'Untitled - Google Chrome 6_20_2024 9_36_44 PM.png', 
+            githubLink: 'https://github.com/your-repo/pattern-2',
+            previewLink: 'https://your-preview-link/pattern-2',
+            description: 'Description for Pattern 2. Phasellus consequat neque a nibh faucibus, sit amet finibus ante malesuada.'
+        },
+
+        { 
+            title: 'Pattern 26', 
+            image: 'Untitled - Google Chrome 6_20_2024 9_36_44 PM - Copy.png', 
+            githubLink: 'https://github.com/your-repo/pattern-2',
+            previewLink: 'https://your-preview-link/pattern-2',
+            description: 'Description for Pattern 2. Phasellus consequat neque a nibh faucibus, sit amet finibus ante malesuada.'
+        },
+
+        { 
+            title: 'Pattern 27', 
+            image: 'https://via.placeholder.com/300', 
+            githubLink: 'https://github.com/your-repo/pattern-2',
+            previewLink: 'https://your-preview-link/pattern-2',
+            description: 'Description for Pattern 2. Phasellus consequat neque a nibh faucibus, sit amet finibus ante malesuada.'
+        },
+
+
+        { 
+            title: 'Pattern 28', 
             image: 'https://via.placeholder.com/300', 
             githubLink: 'https://github.com/your-repo/pattern-2',
             previewLink: 'https://your-preview-link/pattern-2',
