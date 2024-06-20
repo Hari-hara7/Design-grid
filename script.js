@@ -54,28 +54,28 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         { 
             title: 'Pattern 8', 
-            image: 'https://via.placeholder.com/300', 
+            image: 'Untitled - Google Chrome 6_20_2024 9_05_10 PM.png', 
             githubLink: 'https://github.com/your-repo/pattern-2',
             previewLink: 'https://your-preview-link/pattern-2',
             description: 'Description for Pattern 2. Phasellus consequat neque a nibh faucibus, sit amet finibus ante malesuada.'
         },
         { 
-            title: 'Pattern 2', 
-            image: 'https://via.placeholder.com/300', 
+            title: 'Pattern 9', 
+            image: 'Untitled - Google Chrome 6_20_2024 9_07_37 PM.png', 
             githubLink: 'https://github.com/your-repo/pattern-2',
             previewLink: 'https://your-preview-link/pattern-2',
             description: 'Description for Pattern 2. Phasellus consequat neque a nibh faucibus, sit amet finibus ante malesuada.'
         },
         { 
-            title: 'Pattern 2', 
-            image: 'https://via.placeholder.com/300', 
+            title: 'Pattern 10', 
+            image: 'Untitled - Google Chrome 6_20_2024 9_11_53 PM.png', 
             githubLink: 'https://github.com/your-repo/pattern-2',
             previewLink: 'https://your-preview-link/pattern-2',
             description: 'Description for Pattern 2. Phasellus consequat neque a nibh faucibus, sit amet finibus ante malesuada.'
         },
         { 
-            title: 'Pattern 2', 
-            image: 'https://via.placeholder.com/300', 
+            title: 'Pattern 11', 
+            image: 'Untitled - Google Chrome 6_20_2024 9_14_51 PM.png', 
             githubLink: 'https://github.com/your-repo/pattern-2',
             previewLink: 'https://your-preview-link/pattern-2',
             description: 'Description for Pattern 2. Phasellus consequat neque a nibh faucibus, sit amet finibus ante malesuada.'
