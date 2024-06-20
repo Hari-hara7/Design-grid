@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Design Grid</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">Design Grid</div>
+            <ul class="nav-links">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#patterns">Patterns</a></li>
+                <li><a href="#backgrounds">3D Backgrounds</a></li>
+                <li><a href="#about">About Us</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+            <div class="burger">
+                <div class="line1"></div>
+                <div class="line2"></div>
+                <div class="line3"></div>
+            </div>
+        </nav>
+    </header>
+
+    <section id="home" class="hero">
+        <div class="hero-content">
+            <h1>Welcome to Design Grid</h1>
+            <p>Free website background patterns and 3D backgrounds that are responsive and customizable.</p>
+            <a href="#patterns" class="btn primary">Explore Patterns</a>
+            <a href="#backgrounds" class="btn secondary">Explore 3D Backgrounds</a>
+        </div>
+    </section>
+
+    <section id="patterns" class="patterns">
+        <h2>Patterns</h2>
+        <div class="pattern-grid">
+            <!-- Pattern cards will be inserted here by JavaScript -->
+        </div>
+    </section>
+
+    <section id="backgrounds" class="backgrounds">
+        <h2>3D Backgrounds</h2>
+        <div class="background-grid">
+            <!-- Background cards will be inserted here by JavaScript -->
+        </div>
+    </section>
+
+    <footer>
+        <div class="footer-content">
+            <p>Contact us: info@designgrid.com</p>
+            <p>&copy; 2024 Design Grid. All rights reserved.</p>
+            <p>
+                <a href="#privacy">Privacy Policy</a> | 
+                <a href="#terms">Terms of Service</a>
+            </p>
+        </div>
+        <div class="social-icons">
+            <a href="#" class="fab fa-facebook-f"></a>
+            <a href="#" class="fab fa-twitter"></a>
+            <a href="#" class="fab fa-instagram"></a>
+            <a href="#" class="fab fa-linkedin-in"></a>
+        </div>
+    </footer>
+
+    <!-- Modal -->
+    <div id="codeModal" class="modal">
+        <div class="modal-content">
+            <span class="close-btn">&times;</span>
+            <h2>Code Snippet</h2>
+            <pre><code id="codeSnippet"></code></pre>
+        </div>
+    </div>
+
+    <!-- Chatbot Placeholder -->
+    <div class="chatbot-container">
+        <div class="chatbot-toggle"><i class="fas fa-comments"></i> Chat</div>
+        <div class="chatbot-window">
+            <div class="chatbot-header">Chatbot</div>
+            <div class="chatbot-body">
+                <!-- Chatbot conversation will go here -->
+            </div>
+            <div class="chatbot-input">
+                <input type="text" id="chatInput" placeholder="Type a message...">
+                <button id="sendBtn"><i class="fas fa-paper-plane"></i></button>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
