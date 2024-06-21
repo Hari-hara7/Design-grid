@@ -345,7 +345,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         { 
             title: 'Background 15', 
-            image: 'https://via.placeholder.com/300', 
+            image: 'Design Grid - Google Chrome 6_21_2024 1_14_38 PM.png', 
             githubLink: 'https://github.com/Hari-hara7/web-15-3d-.git',
             previewLink: 'https://hari-hara7.github.io/web-15-3d-/',
             description: 'Description for Background 2. Duis tristique lorem sed nulla dignissim, et convallis leo sodales.'
@@ -353,7 +353,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         { 
             title: 'Background 16', 
-            image: 'https://via.placeholder.com/300', 
+            image: 'Design Grid - Google Chrome 6_21_2024 1_15_43 PM.png', 
             githubLink: 'https://github.com/Hari-hara7/web-16-3d-.git',
             previewLink: 'https://hari-hara7.github.io/web-16-3d-/',
             description: 'Description for Background 2. Duis tristique lorem sed nulla dignissim, et convallis leo sodales.'
@@ -361,7 +361,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         { 
             title: 'Background 17', 
-            image: 'https://via.placeholder.com/300', 
+            image: 'Design Grid - Google Chrome 6_21_2024 1_17_06 PM.png', 
             githubLink: 'https://github.com/Hari-hara7/web-17-3d-.git',
             previewLink: 'https://hari-hara7.github.io/web-17-3d-/',
             description: 'Description for Background 2. Duis tristique lorem sed nulla dignissim, et convallis leo sodales.'
