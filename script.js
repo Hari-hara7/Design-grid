@@ -395,40 +395,40 @@ document.addEventListener('DOMContentLoaded', () => {
         { 
             title: 'Background 21', 
             image: 'https://via.placeholder.com/300', 
-            githubLink: 'https://github.com/your-repo/background-2',
-            previewLink: 'https://your-preview-link/background-2',
+            githubLink: 'https://github.com/Hari-hara7/web-21-3d-.git',
+            previewLink: 'https://hari-hara7.github.io/web-21-3d-/',
             description: 'Description for Background 2. Duis tristique lorem sed nulla dignissim, et convallis leo sodales.'
         },
 
         { 
             title: 'Background 22', 
             image: 'https://via.placeholder.com/300', 
-            githubLink: 'https://github.com/your-repo/background-2',
-            previewLink: 'https://your-preview-link/background-2',
+            githubLink: 'https://github.com/Hari-hara7/web-22-3d-.git',
+            previewLink: 'https://hari-hara7.github.io/web-22-3d-/',
             description: 'Description for Background 2. Duis tristique lorem sed nulla dignissim, et convallis leo sodales.'
         },
 
         { 
             title: 'Background 23', 
             image: 'https://via.placeholder.com/300', 
-            githubLink: 'https://github.com/your-repo/background-2',
-            previewLink: 'https://your-preview-link/background-2',
+            githubLink: 'https://github.com/Hari-hara7/web-23-3d-.git',
+            previewLink: 'https://hari-hara7.github.io/web-23-3d-/',
             description: 'Description for Background 2. Duis tristique lorem sed nulla dignissim, et convallis leo sodales.'
         },
 
         { 
             title: 'Background 24', 
             image: 'https://via.placeholder.com/300', 
-            githubLink: 'https://github.com/your-repo/background-2',
-            previewLink: 'https://your-preview-link/background-2',
+            githubLink: 'https://github.com/Hari-hara7/web-24-3d--.git',
+            previewLink: 'https://hari-hara7.github.io/web-24-3d--/',
             description: 'Description for Background 2. Duis tristique lorem sed nulla dignissim, et convallis leo sodales.'
         },
 
         { 
             title: 'Background 25', 
             image: 'https://via.placeholder.com/300', 
-            githubLink: 'https://github.com/your-repo/background-2',
-            previewLink: 'https://your-preview-link/background-2',
+            githubLink: 'https://github.com/Hari-hara7/web-25-3d.git',
+            previewLink: 'https://hari-hara7.github.io/web-25-3d/',
             description: 'Description for Background 2. Duis tristique lorem sed nulla dignissim, et convallis leo sodales.'
         },
 
