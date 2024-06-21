@@ -202,25 +202,25 @@ document.addEventListener('DOMContentLoaded', () => {
         { 
             title: 'Pattern 28', 
             image: 'Untitled - Google Chrome 6_20_2024 9_44_14 PM.png', 
-            githubLink: 'https://github.com/your-repo/pattern-2',
-            previewLink: 'https://your-preview-link/pattern-2',
-            description: 'Description for Pattern 2. Phasellus consequat neque a nibh faucibus, sit amet finibus ante malesuada.'
+            githubLink: 'https://github.com/Hari-hara7/pattern-background-web-28.git',
+            previewLink: 'https://hari-hara7.github.io/pattern-background-web-28/',
+            description: 'This is an example of a classic patterned background with a subtle damask-inspired pattern.'
         },
 
         { 
             title: 'Pattern 29', 
             image: 'Untitled - Google Chrome 6_20_2024 9_45_11 PM.png', 
-            githubLink: 'https://github.com/your-repo/pattern-2',
-            previewLink: 'https://your-preview-link/pattern-2',
-            description: 'Description for Pattern 2. Phasellus consequat neque a nibh faucibus, sit amet finibus ante malesuada.'
+            githubLink: 'https://github.com/Hari-hara7/pattern-background-web-29.git',
+            previewLink: 'https://hari-hara7.github.io/pattern-background-web-29/',
+            description: 'This is an example of a classic patterned background with a subtle damask-inspired pattern.'
         },
 
         { 
             title: 'Pattern 30', 
             image: 'Untitled - Google Chrome 6_20_2024 9_46_23 PM.png', 
-            githubLink: 'https://github.com/your-repo/pattern-2',
-            previewLink: 'https://your-preview-link/pattern-2',
-            description: 'Description for Pattern 2. Phasellus consequat neque a nibh faucibus, sit amet finibus ante malesuada.'
+            githubLink: 'https://github.com/Hari-hara7/pattern-background-web-30.git',
+            previewLink: 'https://hari-hara7.github.io/pattern-background-web-30/',
+            description: 'This is an example of a classic patterned background with a subtle damask-inspired pattern.'
         },
 
         // Add more patterns here
