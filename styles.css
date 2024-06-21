@@ -904,7 +904,7 @@ footer a:hover {
     background: rgba(255, 255, 255, 0.1);
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);/* Frosted glass background color */
     backdrop-filter: blur(10px); /* Blur effect for glass */
-    border-radius: 20px; /* Rounded corners */
+    border-radius: 26px; /* Rounded corners */
     padding: 5px 0; /* Reduced padding for smaller size */
     z-index: 999;
 }
@@ -934,6 +934,7 @@ footer a:hover {
     font-size: 10px; /* Text size */
     text-align: center;
 }
+
 
 /* Footer styles */
 footer {
