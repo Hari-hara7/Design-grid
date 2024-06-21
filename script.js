@@ -254,16 +254,16 @@ document.addEventListener('DOMContentLoaded', () => {
         { 
             title: 'Background 4', 
             image: 'https://via.placeholder.com/300', 
-            githubLink: 'https://github.com/your-repo/background-2',
-            previewLink: 'https://your-preview-link/background-2',
+            githubLink: 'https://github.com/Hari-hara7/web-4-3d-.git',
+            previewLink: 'https://hari-hara7.github.io/web-4-3d-/',
             description: 'Description for Background 2. Duis tristique lorem sed nulla dignissim, et convallis leo sodales.'
         },
 
         { 
             title: 'Background 5', 
             image: 'https://via.placeholder.com/300', 
-            githubLink: 'https://github.com/your-repo/background-2',
-            previewLink: 'https://your-preview-link/background-2',
+            githubLink: 'https://github.com/Hari-hara7/web-5-3d.git',
+            previewLink: 'https://hari-hara7.github.io/web-5-3d/',
             description: 'Description for Background 2. Duis tristique lorem sed nulla dignissim, et convallis leo sodales.'
         },
 
