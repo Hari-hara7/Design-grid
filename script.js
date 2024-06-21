@@ -160,7 +160,7 @@ document.addEventListener('DOMContentLoaded', () => {
         },
         { 
             title: 'Pattern 23', 
-            image: 'Untitled - Google Chrome 6_20_2024 9_32_52 PM.png', 
+            image: 'Design Grid - Google Chrome 6_21_2024 1_54_34 PM.png', 
             githubLink: 'https://github.com/Hari-hara7/pattern-background-web-23.git',
             previewLink: 'https://hari-hara7.github.io/pattern-background-web-23/',
             description: 'This is an example of a classic patterned background with a subtle damask-inspired pattern.'
