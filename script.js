@@ -50,63 +50,63 @@ document.addEventListener('DOMContentLoaded', () => {
             image: 'Constellation Background Pattern - Google Chrome 6_20_2024 9_01_15 PM.png', 
             githubLink: 'https://github.com/Hari-hara7/pattern-background-web-7.git',
             previewLink: 'https://hari-hara7.github.io/pattern-background-web-7/',
-            description: 'Description for Pattern 2. Phasellus consequat neque a nibh faucibus, sit amet finibus ante malesuada.'
+            description: 'This is an example of a classic patterned background with a subtle damask-inspired pattern.'
         },
         { 
             title: 'Pattern 8', 
             image: 'Untitled - Google Chrome 6_20_2024 9_05_10 PM.png', 
-            githubLink: 'https://github.com/your-repo/pattern-2',
-            previewLink: 'https://your-preview-link/pattern-2',
-            description: 'Description for Pattern 2. Phasellus consequat neque a nibh faucibus, sit amet finibus ante malesuada.'
+            githubLink: 'https://github.com/Hari-hara7/pattern-background-web-8.git',
+            previewLink: 'https://hari-hara7.github.io/pattern-background-web-8/',
+            description: 'This is an example of a classic patterned background with a subtle damask-inspired pattern.'
         },
         { 
             title: 'Pattern 9', 
             image: 'Untitled - Google Chrome 6_20_2024 9_07_37 PM.png', 
-            githubLink: 'https://github.com/your-repo/pattern-2',
-            previewLink: 'https://your-preview-link/pattern-2',
-            description: 'Description for Pattern 2. Phasellus consequat neque a nibh faucibus, sit amet finibus ante malesuada.'
+            githubLink: 'https://github.com/Hari-hara7/pattern-background-web-9.git',
+            previewLink: 'https://hari-hara7.github.io/pattern-background-web-9/',
+            description: 'This is an example of a classic patterned background with a subtle damask-inspired pattern.'
         },
         { 
             title: 'Pattern 10', 
             image: 'Untitled - Google Chrome 6_20_2024 9_11_53 PM.png', 
-            githubLink: 'https://github.com/your-repo/pattern-2',
-            previewLink: 'https://your-preview-link/pattern-2',
-            description: 'Description for Pattern 2. Phasellus consequat neque a nibh faucibus, sit amet finibus ante malesuada.'
+            githubLink: 'https://github.com/Hari-hara7/pattern-background-web-10.git',
+            previewLink: 'https://hari-hara7.github.io/pattern-background-web-10/',
+            description: 'This is an example of a classic patterned background with a subtle damask-inspired pattern.'
         },
         { 
             title: 'Pattern 11', 
             image: 'Untitled - Google Chrome 6_20_2024 9_14_51 PM.png', 
-            githubLink: 'https://github.com/your-repo/pattern-2',
-            previewLink: 'https://your-preview-link/pattern-2',
-            description: 'Description for Pattern 2. Phasellus consequat neque a nibh faucibus, sit amet finibus ante malesuada.'
+            githubLink: 'https://github.com/Hari-hara7/pattern-background-web-11.git',
+            previewLink: 'https://hari-hara7.github.io/pattern-background-web-11/',
+            description: 'This is an example of a classic patterned background with a subtle damask-inspired pattern.'
         },
         { 
             title: 'Pattern 12', 
             image: 'Untitled - Google Chrome 6_20_2024 9_18_38 PM.png', 
-            githubLink: 'https://github.com/your-repo/pattern-2',
-            previewLink: 'https://your-preview-link/pattern-2',
-            description: 'Description for Pattern 2. Phasellus consequat neque a nibh faucibus, sit amet finibus ante malesuada.'
+            githubLink: 'https://github.com/Hari-hara7/pattern-background-web-12.git',
+            previewLink: 'https://hari-hara7.github.io/pattern-background-web-12/',
+            description: 'This is an example of a classic patterned background with a subtle damask-inspired pattern.'
         },
         { 
             title: 'Pattern 13', 
             image: 'Untitled - Google Chrome 6_20_2024 9_20_25 PM.png', 
-            githubLink: 'https://github.com/your-repo/pattern-2',
-            previewLink: 'https://your-preview-link/pattern-2',
-            description: 'Description for Pattern 2. Phasellus consequat neque a nibh faucibus, sit amet finibus ante malesuada.'
+            githubLink: 'https://github.com/Hari-hara7/pattern-background-web-13.git',
+            previewLink: 'https://hari-hara7.github.io/pattern-background-web-13/',
+            description: 'This is an example of a classic patterned background with a subtle damask-inspired pattern.'
         },
         { 
             title: 'Pattern 14', 
             image: 'Untitled - Google Chrome 6_20_2024 9_22_33 PM.png', 
-            githubLink: 'https://github.com/your-repo/pattern-2',
-            previewLink: 'https://your-preview-link/pattern-2',
-            description: 'Description for Pattern 2. Phasellus consequat neque a nibh faucibus, sit amet finibus ante malesuada.'
+            githubLink: 'https://github.com/Hari-hara7/pattern-background-web-14.git',
+            previewLink: 'https://hari-hara7.github.io/pattern-background-web-14/',
+            description: 'This is an example of a classic patterned background with a subtle damask-inspired pattern.'
         },
         { 
             title: 'Pattern 15', 
             image: 'Untitled - Google Chrome 6_20_2024 9_23_37 PM.png', 
-            githubLink: 'https://github.com/your-repo/pattern-2',
-            previewLink: 'https://your-preview-link/pattern-2',
-            description: 'Description for Pattern 2. Phasellus consequat neque a nibh faucibus, sit amet finibus ante malesuada.'
+            githubLink:'https://github.com/Hari-hara7/pattern-background-web-15.git',
+            previewLink: 'https://hari-hara7.github.io/pattern-background-web-15/',
+            description: 'This is an example of a classic patterned background with a subtle damask-inspired pattern.'
         },
         { 
             title: 'Pattern 16', 
