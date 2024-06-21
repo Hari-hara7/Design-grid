@@ -901,7 +901,8 @@ footer a:hover {
     justify-content: space-around;
     width: 80%; /* Reduced width for smaller size */
     max-width: 400px; /* Adjust max-width as needed */
-    background-color: rgba(255, 255, 255, 0.25); /* Frosted glass background color */
+    background: rgba(255, 255, 255, 0.1);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);/* Frosted glass background color */
     backdrop-filter: blur(10px); /* Blur effect for glass */
     border-radius: 20px; /* Rounded corners */
     padding: 5px 0; /* Reduced padding for smaller size */
