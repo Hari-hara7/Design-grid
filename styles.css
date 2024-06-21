@@ -802,3 +802,78 @@ footer a:hover {
         text-shadow: 0 0 5px #0000ff, 0 0 10px #0000ff, 0 0 15px #0000ff, 0 0 20px #0000ff, 0 0 25px #0000ff;
     }
 }
+
+#patterns h2 {
+    font-size: 2em;
+    color: white;
+    text-align: center;
+    animation: glow 1.5s infinite alternate;
+}
+
+@keyframes glow {
+    0% {
+        text-shadow: 0 0 5px #ff0000, 0 0 10px #ff0000, 0 0 15px #ff0000, 0 0 20px #ff0000, 0 0 25px #ff0000;
+    }
+    100% {
+        text-shadow: 0 0 5px #0000ff, 0 0 10px #0000ff, 0 0 15px #0000ff, 0 0 20px #0000ff, 0 0 25px #0000ff;
+    }
+}
+
+#patterns {
+    padding: 20px;
+    text-align: center;
+}
+
+#patterns h2 {
+    font-size: 2em;
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+
+#patterns p {
+    font-size: 1em;
+    color: #666;
+    margin-bottom: 20px;
+}
+
+.pattern-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+
+.pattern-grid .pattern-card {
+    width: 150px;
+    height: 150px;
+    background-color: white;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.pattern-grid .pattern1 {
+    background: linear-gradient(45deg, #f06, transparent);
+}
+
+.pattern-grid .pattern2 {
+    background: repeating-linear-gradient(
+        45deg,
+        #001ac6,
+        #0022ff 10px,
+        #ffffff 10px,
+        #ffffff 20px
+    );
+}
+
+.pattern-grid .pattern3 {
+    background: linear-gradient(90deg, #ff9a9e 0%, #fad0c4 100%);
+}
+
+.pattern-grid .pattern4 {
+    background: repeating-linear-gradient(
+        135deg,
+        #f5f7fa,
+        #f5f7fa 10px,
+        #c3cfe2 10px,
+        #c3cfe2 20px
+    );
+}
