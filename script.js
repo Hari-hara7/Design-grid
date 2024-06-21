@@ -242,6 +242,241 @@ document.addEventListener('DOMContentLoaded', () => {
             previewLink: 'https://your-preview-link/background-2',
             description: 'Description for Background 2. Duis tristique lorem sed nulla dignissim, et convallis leo sodales.'
         },
+
+        { 
+            title: 'Background 3', 
+            image: 'https://via.placeholder.com/300', 
+            githubLink: 'https://github.com/your-repo/background-2',
+            previewLink: 'https://your-preview-link/background-2',
+            description: 'Description for Background 2. Duis tristique lorem sed nulla dignissim, et convallis leo sodales.'
+        },
+
+        { 
+            title: 'Background 4', 
+            image: 'https://via.placeholder.com/300', 
+            githubLink: 'https://github.com/your-repo/background-2',
+            previewLink: 'https://your-preview-link/background-2',
+            description: 'Description for Background 2. Duis tristique lorem sed nulla dignissim, et convallis leo sodales.'
+        },
+
+        { 
+            title: 'Background 5', 
+            image: 'https://via.placeholder.com/300', 
+            githubLink: 'https://github.com/your-repo/background-2',
+            previewLink: 'https://your-preview-link/background-2',
+            description: 'Description for Background 2. Duis tristique lorem sed nulla dignissim, et convallis leo sodales.'
+        },
+
+        { 
+            title: 'Background 6', 
+            image: 'https://via.placeholder.com/300', 
+            githubLink: 'https://github.com/your-repo/background-2',
+            previewLink: 'https://your-preview-link/background-2',
+            description: 'Description for Background 2. Duis tristique lorem sed nulla dignissim, et convallis leo sodales.'
+        },
+
+        { 
+            title: 'Background 7', 
+            image: 'https://via.placeholder.com/300', 
+            githubLink: 'https://github.com/your-repo/background-2',
+            previewLink: 'https://your-preview-link/background-2',
+            description: 'Description for Background 2. Duis tristique lorem sed nulla dignissim, et convallis leo sodales.'
+        },
+
+
+        { 
+            title: 'Background 8', 
+            image: 'https://via.placeholder.com/300', 
+            githubLink: 'https://github.com/your-repo/background-2',
+            previewLink: 'https://your-preview-link/background-2',
+            description: 'Description for Background 2. Duis tristique lorem sed nulla dignissim, et convallis leo sodales.'
+        },
+
+        { 
+            title: 'Background 9', 
+            image: 'https://via.placeholder.com/300', 
+            githubLink: 'https://github.com/your-repo/background-2',
+            previewLink: 'https://your-preview-link/background-2',
+            description: 'Description for Background 2. Duis tristique lorem sed nulla dignissim, et convallis leo sodales.'
+        },
+
+        { 
+            title: 'Background 10', 
+            image: 'https://via.placeholder.com/300', 
+            githubLink: 'https://github.com/your-repo/background-2',
+            previewLink: 'https://your-preview-link/background-2',
+            description: 'Description for Background 2. Duis tristique lorem sed nulla dignissim, et convallis leo sodales.'
+        },
+
+        { 
+            title: 'Background 2', 
+            image: 'https://via.placeholder.com/300', 
+            githubLink: 'https://github.com/your-repo/background-2',
+            previewLink: 'https://your-preview-link/background-2',
+            description: 'Description for Background 2. Duis tristique lorem sed nulla dignissim, et convallis leo sodales.'
+        },
+
+        { 
+            title: 'Background 11', 
+            image: 'https://via.placeholder.com/300', 
+            githubLink: 'https://github.com/your-repo/background-2',
+            previewLink: 'https://your-preview-link/background-2',
+            description: 'Description for Background 2. Duis tristique lorem sed nulla dignissim, et convallis leo sodales.'
+        },
+
+        { 
+            title: 'Background 12', 
+            image: 'https://via.placeholder.com/300', 
+            githubLink: 'https://github.com/your-repo/background-2',
+            previewLink: 'https://your-preview-link/background-2',
+            description: 'Description for Background 2. Duis tristique lorem sed nulla dignissim, et convallis leo sodales.'
+        },
+
+        { 
+            title: 'Background 13', 
+            image: 'https://via.placeholder.com/300', 
+            githubLink: 'https://github.com/your-repo/background-2',
+            previewLink: 'https://your-preview-link/background-2',
+            description: 'Description for Background 2. Duis tristique lorem sed nulla dignissim, et convallis leo sodales.'
+        },
+
+
+        { 
+            title: 'Background 14', 
+            image: 'https://via.placeholder.com/300', 
+            githubLink: 'https://github.com/your-repo/background-2',
+            previewLink: 'https://your-preview-link/background-2',
+            description: 'Description for Background 2. Duis tristique lorem sed nulla dignissim, et convallis leo sodales.'
+        },
+
+        { 
+            title: 'Background 15', 
+            image: 'https://via.placeholder.com/300', 
+            githubLink: 'https://github.com/your-repo/background-2',
+            previewLink: 'https://your-preview-link/background-2',
+            description: 'Description for Background 2. Duis tristique lorem sed nulla dignissim, et convallis leo sodales.'
+        },
+
+        { 
+            title: 'Background 16', 
+            image: 'https://via.placeholder.com/300', 
+            githubLink: 'https://github.com/your-repo/background-2',
+            previewLink: 'https://your-preview-link/background-2',
+            description: 'Description for Background 2. Duis tristique lorem sed nulla dignissim, et convallis leo sodales.'
+        },
+
+        { 
+            title: 'Background 17', 
+            image: 'https://via.placeholder.com/300', 
+            githubLink: 'https://github.com/your-repo/background-2',
+            previewLink: 'https://your-preview-link/background-2',
+            description: 'Description for Background 2. Duis tristique lorem sed nulla dignissim, et convallis leo sodales.'
+        },
+
+
+        { 
+            title: 'Background 18', 
+            image: 'https://via.placeholder.com/300', 
+            githubLink: 'https://github.com/your-repo/background-2',
+            previewLink: 'https://your-preview-link/background-2',
+            description: 'Description for Background 2. Duis tristique lorem sed nulla dignissim, et convallis leo sodales.'
+        },
+
+        { 
+            title: 'Background 19', 
+            image: 'https://via.placeholder.com/300', 
+            githubLink: 'https://github.com/your-repo/background-2',
+            previewLink: 'https://your-preview-link/background-2',
+            description: 'Description for Background 2. Duis tristique lorem sed nulla dignissim, et convallis leo sodales.'
+        },
+
+        { 
+            title: 'Background 20', 
+            image: 'https://via.placeholder.com/300', 
+            githubLink: 'https://github.com/your-repo/background-2',
+            previewLink: 'https://your-preview-link/background-2',
+            description: 'Description for Background 2. Duis tristique lorem sed nulla dignissim, et convallis leo sodales.'
+        },
+
+        { 
+            title: 'Background 21', 
+            image: 'https://via.placeholder.com/300', 
+            githubLink: 'https://github.com/your-repo/background-2',
+            previewLink: 'https://your-preview-link/background-2',
+            description: 'Description for Background 2. Duis tristique lorem sed nulla dignissim, et convallis leo sodales.'
+        },
+
+        { 
+            title: 'Background 22', 
+            image: 'https://via.placeholder.com/300', 
+            githubLink: 'https://github.com/your-repo/background-2',
+            previewLink: 'https://your-preview-link/background-2',
+            description: 'Description for Background 2. Duis tristique lorem sed nulla dignissim, et convallis leo sodales.'
+        },
+
+        { 
+            title: 'Background 23', 
+            image: 'https://via.placeholder.com/300', 
+            githubLink: 'https://github.com/your-repo/background-2',
+            previewLink: 'https://your-preview-link/background-2',
+            description: 'Description for Background 2. Duis tristique lorem sed nulla dignissim, et convallis leo sodales.'
+        },
+
+        { 
+            title: 'Background 24', 
+            image: 'https://via.placeholder.com/300', 
+            githubLink: 'https://github.com/your-repo/background-2',
+            previewLink: 'https://your-preview-link/background-2',
+            description: 'Description for Background 2. Duis tristique lorem sed nulla dignissim, et convallis leo sodales.'
+        },
+
+        { 
+            title: 'Background 25', 
+            image: 'https://via.placeholder.com/300', 
+            githubLink: 'https://github.com/your-repo/background-2',
+            previewLink: 'https://your-preview-link/background-2',
+            description: 'Description for Background 2. Duis tristique lorem sed nulla dignissim, et convallis leo sodales.'
+        },
+
+        { 
+            title: 'Background 26', 
+            image: 'https://via.placeholder.com/300', 
+            githubLink: 'https://github.com/your-repo/background-2',
+            previewLink: 'https://your-preview-link/background-2',
+            description: 'Description for Background 2. Duis tristique lorem sed nulla dignissim, et convallis leo sodales.'
+        },
+
+        { 
+            title: 'Background 27', 
+            image: 'https://via.placeholder.com/300', 
+            githubLink: 'https://github.com/your-repo/background-2',
+            previewLink: 'https://your-preview-link/background-2',
+            description: 'Description for Background 2. Duis tristique lorem sed nulla dignissim, et convallis leo sodales.'
+        },
+
+        { 
+            title: 'Background 28', 
+            image: 'https://via.placeholder.com/300', 
+            githubLink: 'https://github.com/your-repo/background-2',
+            previewLink: 'https://your-preview-link/background-2',
+            description: 'Description for Background 2. Duis tristique lorem sed nulla dignissim, et convallis leo sodales.'
+        },
+
+        { 
+            title: 'Background 29', 
+            image: 'https://via.placeholder.com/300', 
+            githubLink: 'https://github.com/your-repo/background-2',
+            previewLink: 'https://your-preview-link/background-2',
+            description: 'Description for Background 2. Duis tristique lorem sed nulla dignissim, et convallis leo sodales.'
+        },
+
+        { 
+            title: 'Background 30', 
+            image: 'https://via.placeholder.com/300', 
+            githubLink: 'https://github.com/your-repo/background-2',
+            previewLink: 'https://your-preview-link/background-2',
+            description: 'Description for Background 2. Duis tristique lorem sed nulla dignissim, et convallis leo sodales.'
+        },
         // Add more backgrounds here
     ];
 
