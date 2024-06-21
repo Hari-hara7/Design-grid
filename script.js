@@ -233,14 +233,14 @@ document.addEventListener('DOMContentLoaded', () => {
             image: 'Advanced 3D Animated Background - Google Chrome 6_21_2024 12_53_56 PM.png', 
             githubLink: 'https://github.com/Hari-hara7/web-background1.git',
             previewLink: 'https://hari-hara7.github.io/web-background1/',
-            description: 'Description for Background 1. Integer fermentum metus et velit cursus, ac congue felis sagittis.'
+            description: '3D animation crafted with the powerful combination of GSAP and Three.js. This background delivers smooth, visually captivating animations, making it a perfect addition to enhance your web projects.'
         },
         { 
             title: 'Background 2', 
             image: 'Design Grid - Google Chrome 6_21_2024 12_55_28 PM.png', 
             githubLink: 'https://github.com/Hari-hara7/background-web2.git',
             previewLink: 'https://hari-hara7.github.io/background-web2/',
-            description: 'Description for Background 2. Duis tristique lorem sed nulla dignissim, et convallis leo sodales.'
+            description: '3D animation crafted with the powerful combination of GSAP and Three.js. This background delivers smooth, visually captivating animations, making it a perfect addition to enhance your web projects.'
         },
 
         { 
@@ -248,7 +248,7 @@ document.addEventListener('DOMContentLoaded', () => {
             image: 'Design Grid - Google Chrome 6_21_2024 12_57_21 PM.png', 
             githubLink: 'https://github.com/Hari-hara7/3d-background-animation.git',
             previewLink: 'https://hari-hara7.github.io/3d-background-animation/',
-            description: 'Description for Background 2. Duis tristique lorem sed nulla dignissim, et convallis leo sodales.'
+            description: '3D animation crafted with the powerful combination of GSAP and Three.js. This background delivers smooth, visually captivating animations, making it a perfect addition to enhance your web projects.'
         },
 
         { 
@@ -256,7 +256,7 @@ document.addEventListener('DOMContentLoaded', () => {
             image: 'Design Grid - Google Chrome 6_21_2024 12_58_43 PM.png', 
             githubLink: 'https://github.com/Hari-hara7/web-4-3d-.git',
             previewLink: 'https://hari-hara7.github.io/web-4-3d-/',
-            description: 'Description for Background 2. Duis tristique lorem sed nulla dignissim, et convallis leo sodales.'
+            description: '3D animation crafted with the powerful combination of GSAP and Three.js. This background delivers smooth, visually captivating animations, making it a perfect addition to enhance your web projects.'
         },
 
         { 
@@ -264,7 +264,7 @@ document.addEventListener('DOMContentLoaded', () => {
             image: 'Design Grid - Google Chrome 6_21_2024 12_59_51 PM.png', 
             githubLink: 'https://github.com/Hari-hara7/web-5-3d.git',
             previewLink: 'https://hari-hara7.github.io/web-5-3d/',
-            description: 'Description for Background 2. Duis tristique lorem sed nulla dignissim, et convallis leo sodales.'
+            description: '3D animation crafted with the powerful combination of GSAP and Three.js. This background delivers smooth, visually captivating animations, making it a perfect addition to enhance your web projects.'
         },
 
         { 
@@ -272,7 +272,7 @@ document.addEventListener('DOMContentLoaded', () => {
             image: 'Design Grid - Google Chrome 6_21_2024 1_02_20 PM.png', 
             githubLink: 'https://github.com/Hari-hara7/web-6-3d-.git',
             previewLink: 'https://hari-hara7.github.io/web-6-3d-/',
-            description: 'Description for Background 2. Duis tristique lorem sed nulla dignissim, et convallis leo sodales.'
+            description: '3D animation crafted with the powerful combination of GSAP and Three.js. This background delivers smooth, visually captivating animations, making it a perfect addition to enhance your web projects.'
         },
 
         { 
@@ -280,7 +280,7 @@ document.addEventListener('DOMContentLoaded', () => {
             image: 'Design Grid - Google Chrome 6_21_2024 1_03_27 PM.png', 
             githubLink: 'https://github.com/Hari-hara7/web-7-3d.git',
             previewLink: 'https://hari-hara7.github.io/web-7-3d/',
-            description: 'Description for Background 2. Duis tristique lorem sed nulla dignissim, et convallis leo sodales.'
+            description: '3D animation crafted with the powerful combination of GSAP and Three.js. This background delivers smooth, visually captivating animations, making it a perfect addition to enhance your web projects.'
         },
 
 
@@ -289,7 +289,7 @@ document.addEventListener('DOMContentLoaded', () => {
             image: 'Design Grid - Google Chrome 6_21_2024 1_04_43 PM.png', 
             githubLink: 'https://github.com/Hari-hara7/web--3d-.git',
             previewLink: 'https://hari-hara7.github.io/web--3d-/',
-            description: 'Description for Background 2. Duis tristique lorem sed nulla dignissim, et convallis leo sodales.'
+            description: '3D animation crafted with the powerful combination of GSAP and Three.js. This background delivers smooth, visually captivating animations, making it a perfect addition to enhance your web projects.'
         },
 
         { 
@@ -297,7 +297,7 @@ document.addEventListener('DOMContentLoaded', () => {
             image: 'Design Grid - Google Chrome 6_21_2024 1_05_52 PM.png', 
             githubLink: 'https://github.com/Hari-hara7/3d-web9.git',
             previewLink: 'https://hari-hara7.github.io/3d-web9/',
-            description: 'Description for Background 2. Duis tristique lorem sed nulla dignissim, et convallis leo sodales.'
+            description: '3D animation crafted with the powerful combination of GSAP and Three.js. This background delivers smooth, visually captivating animations, making it a perfect addition to enhance your web projects.'
         },
 
         { 
@@ -305,7 +305,7 @@ document.addEventListener('DOMContentLoaded', () => {
             image: 'Design Grid - Google Chrome 6_21_2024 1_06_44 PM.png', 
             githubLink: 'https://github.com/Hari-hara7/web-10-3d.git',
             previewLink: 'https://hari-hara7.github.io/web-10-3d/',
-            description: 'Description for Background 2. Duis tristique lorem sed nulla dignissim, et convallis leo sodales.'
+            description: '3D animation crafted with the powerful combination of GSAP and Three.js. This background delivers smooth, visually captivating animations, making it a perfect addition to enhance your web projects.'
         },
 
        
@@ -315,7 +315,7 @@ document.addEventListener('DOMContentLoaded', () => {
             image: 'Design Grid - Google Chrome 6_21_2024 1_07_38 PM.png', 
             githubLink: 'https://github.com/Hari-hara7/web-11-3d-.git',
             previewLink: 'https://hari-hara7.github.io/web-11-3d-/',
-            description: 'Description for Background 2. Duis tristique lorem sed nulla dignissim, et convallis leo sodales.'
+            description: '3D animation crafted with the powerful combination of GSAP and Three.js. This background delivers smooth, visually captivating animations, making it a perfect addition to enhance your web projects.'
         },
 
         { 
@@ -323,7 +323,7 @@ document.addEventListener('DOMContentLoaded', () => {
             image: 'Design Grid - Google Chrome 6_21_2024 1_09_34 PM - Copy.png', 
             githubLink: 'https://github.com/Hari-hara7/web-12-3d.git',
             previewLink: 'https://hari-hara7.github.io/web-12-3d/',
-            description: 'Description for Background 2. Duis tristique lorem sed nulla dignissim, et convallis leo sodales.'
+            description: '3D animation crafted with the powerful combination of GSAP and Three.js. This background delivers smooth, visually captivating animations, making it a perfect addition to enhance your web projects.'
         },
 
         { 
@@ -331,7 +331,7 @@ document.addEventListener('DOMContentLoaded', () => {
             image: 'Design Grid - Google Chrome 6_21_2024 1_11_28 PM.png', 
             githubLink: 'https://github.com/Hari-hara7/web-13-3d-.git',
             previewLink: 'https://hari-hara7.github.io/web-13-3d-/',
-            description: 'Description for Background 2. Duis tristique lorem sed nulla dignissim, et convallis leo sodales.'
+            description: '3D animation crafted with the powerful combination of GSAP and Three.js. This background delivers smooth, visually captivating animations, making it a perfect addition to enhance your web projects.'
         },
 
 
@@ -340,7 +340,7 @@ document.addEventListener('DOMContentLoaded', () => {
             image: 'Design Grid - Google Chrome 6_21_2024 1_12_44 PM.png', 
             githubLink: 'https://github.com/Hari-hara7/web-14-3d.git',
             previewLink: 'https://hari-hara7.github.io/web-14-3d/',
-            description: 'Description for Background 2. Duis tristique lorem sed nulla dignissim, et convallis leo sodales.'
+            description: '3D animation crafted with the powerful combination of GSAP and Three.js. This background delivers smooth, visually captivating animations, making it a perfect addition to enhance your web projects.'
         },
 
         { 
@@ -348,7 +348,7 @@ document.addEventListener('DOMContentLoaded', () => {
             image: 'Design Grid - Google Chrome 6_21_2024 1_14_38 PM.png', 
             githubLink: 'https://github.com/Hari-hara7/web-15-3d-.git',
             previewLink: 'https://hari-hara7.github.io/web-15-3d-/',
-            description: 'Description for Background 2. Duis tristique lorem sed nulla dignissim, et convallis leo sodales.'
+            description: '3D animation crafted with the powerful combination of GSAP and Three.js. This background delivers smooth, visually captivating animations, making it a perfect addition to enhance your web projects.'
         },
 
         { 
@@ -356,7 +356,7 @@ document.addEventListener('DOMContentLoaded', () => {
             image: 'Design Grid - Google Chrome 6_21_2024 1_15_43 PM.png', 
             githubLink: 'https://github.com/Hari-hara7/web-16-3d-.git',
             previewLink: 'https://hari-hara7.github.io/web-16-3d-/',
-            description: 'Description for Background 2. Duis tristique lorem sed nulla dignissim, et convallis leo sodales.'
+            description: '3D animation crafted with the powerful combination of GSAP and Three.js. This background delivers smooth, visually captivating animations, making it a perfect addition to enhance your web projects.'
         },
 
         { 
@@ -364,7 +364,7 @@ document.addEventListener('DOMContentLoaded', () => {
             image: 'Design Grid - Google Chrome 6_21_2024 1_17_06 PM.png', 
             githubLink: 'https://github.com/Hari-hara7/web-17-3d-.git',
             previewLink: 'https://hari-hara7.github.io/web-17-3d-/',
-            description: 'Description for Background 2. Duis tristique lorem sed nulla dignissim, et convallis leo sodales.'
+            description: '3D animation crafted with the powerful combination of GSAP and Three.js. This background delivers smooth, visually captivating animations, making it a perfect addition to enhance your web projects.'
         },
 
 
@@ -373,7 +373,7 @@ document.addEventListener('DOMContentLoaded', () => {
             image: 'Design Grid - Google Chrome 6_21_2024 1_18_30 PM.png', 
             githubLink: 'https://github.com/Hari-hara7/web-18-3d-.git',
             previewLink: 'https://hari-hara7.github.io/web-18-3d-/',
-            description: 'Description for Background 2. Duis tristique lorem sed nulla dignissim, et convallis leo sodales.'
+            description: '3D animation crafted with the powerful combination of GSAP and Three.js. This background delivers smooth, visually captivating animations, making it a perfect addition to enhance your web projects.'
         },
 
         { 
@@ -381,7 +381,7 @@ document.addEventListener('DOMContentLoaded', () => {
             image: 'Design Grid - Google Chrome 6_21_2024 1_19_28 PM.png', 
             githubLink: 'https://github.com/Hari-hara7/web-19-3d--.git',
             previewLink: 'https://hari-hara7.github.io/web-19-3d--/',
-            description: 'Description for Background 2. Duis tristique lorem sed nulla dignissim, et convallis leo sodales.'
+            description: '3D animation crafted with the powerful combination of GSAP and Three.js. This background delivers smooth, visually captivating animations, making it a perfect addition to enhance your web projects.'
         },
 
         { 
@@ -389,7 +389,7 @@ document.addEventListener('DOMContentLoaded', () => {
             image: 'Design Grid - Google Chrome 6_21_2024 1_21_57 PM.png', 
             githubLink: 'https://github.com/Hari-hara7/web-20-3d.git',
             previewLink: 'https://hari-hara7.github.io/web-20-3d/',
-            description: 'Description for Background 2. Duis tristique lorem sed nulla dignissim, et convallis leo sodales.'
+            description: '3D animation crafted with the powerful combination of GSAP and Three.js. This background delivers smooth, visually captivating animations, making it a perfect addition to enhance your web projects.'
         },
 
         { 
@@ -397,7 +397,7 @@ document.addEventListener('DOMContentLoaded', () => {
             image: 'Design Grid - Google Chrome 6_21_2024 1_23_48 PM.png', 
             githubLink: 'https://github.com/Hari-hara7/web-21-3d-.git',
             previewLink: 'https://hari-hara7.github.io/web-21-3d-/',
-            description: 'Description for Background 2. Duis tristique lorem sed nulla dignissim, et convallis leo sodales.'
+            description: '3D animation crafted with the powerful combination of GSAP and Three.js. This background delivers smooth, visually captivating animations, making it a perfect addition to enhance your web projects.'
         },
 
         { 
@@ -405,7 +405,7 @@ document.addEventListener('DOMContentLoaded', () => {
             image: 'Design Grid - Google Chrome 6_21_2024 1_24_45 PM.png', 
             githubLink: 'https://github.com/Hari-hara7/web-22-3d-.git',
             previewLink: 'https://hari-hara7.github.io/web-22-3d-/',
-            description: 'Description for Background 2. Duis tristique lorem sed nulla dignissim, et convallis leo sodales.'
+            description: '3D animation crafted with the powerful combination of GSAP and Three.js. This background delivers smooth, visually captivating animations, making it a perfect addition to enhance your web projects.'
         },
 
         { 
@@ -413,7 +413,7 @@ document.addEventListener('DOMContentLoaded', () => {
             image: 'Design Grid - Google Chrome 6_21_2024 1_26_01 PM.png', 
             githubLink: 'https://github.com/Hari-hara7/web-23-3d-.git',
             previewLink: 'https://hari-hara7.github.io/web-23-3d-/',
-            description: 'Description for Background 2. Duis tristique lorem sed nulla dignissim, et convallis leo sodales.'
+            description: '3D animation crafted with the powerful combination of GSAP and Three.js. This background delivers smooth, visually captivating animations, making it a perfect addition to enhance your web projects.'
         },
 
         { 
@@ -421,7 +421,7 @@ document.addEventListener('DOMContentLoaded', () => {
             image: 'Design Grid - Google Chrome 6_21_2024 1_26_54 PM.png', 
             githubLink: 'https://github.com/Hari-hara7/web-24-3d--.git',
             previewLink: 'https://hari-hara7.github.io/web-24-3d--/',
-            description: 'Description for Background 2. Duis tristique lorem sed nulla dignissim, et convallis leo sodales.'
+            description: '3D animation crafted with the powerful combination of GSAP and Three.js. This background delivers smooth, visually captivating animations, making it a perfect addition to enhance your web projects.'
         },
 
         { 
@@ -429,7 +429,7 @@ document.addEventListener('DOMContentLoaded', () => {
             image: 'Design Grid - Google Chrome 6_21_2024 1_28_14 PM.png', 
             githubLink: 'https://github.com/Hari-hara7/web-25-3d.git',
             previewLink: 'https://hari-hara7.github.io/web-25-3d/',
-            description: 'Description for Background 2. Duis tristique lorem sed nulla dignissim, et convallis leo sodales.'
+            description: '3D animation crafted with the powerful combination of GSAP and Three.js. This background delivers smooth, visually captivating animations, making it a perfect addition to enhance your web projects.'
         },
 
         { 
@@ -437,7 +437,7 @@ document.addEventListener('DOMContentLoaded', () => {
             image: 'Design Grid - Google Chrome 6_21_2024 1_29_06 PM.png', 
             githubLink: 'https://github.com/Hari-hara7/web-26-3d.git',
             previewLink: 'https://hari-hara7.github.io/web-26-3d/',
-            description: 'Description for Background 2. Duis tristique lorem sed nulla dignissim, et convallis leo sodales.'
+            description: '3D animation crafted with the powerful combination of GSAP and Three.js. This background delivers smooth, visually captivating animations, making it a perfect addition to enhance your web projects.'
         },
 
         { 
@@ -445,7 +445,7 @@ document.addEventListener('DOMContentLoaded', () => {
             image: 'Design Grid - Google Chrome 6_21_2024 1_30_30 PM.png', 
             githubLink: 'https://github.com/Hari-hara7/web-27-3d-.git',
             previewLink: 'https://hari-hara7.github.io/web-27-3d-/',
-            description: 'Description for Background 2. Duis tristique lorem sed nulla dignissim, et convallis leo sodales.'
+            description: '3D animation crafted with the powerful combination of GSAP and Three.js. This background delivers smooth, visually captivating animations, making it a perfect addition to enhance your web projects.'
         },
 
         { 
@@ -453,7 +453,7 @@ document.addEventListener('DOMContentLoaded', () => {
             image: 'Design Grid - Google Chrome 6_21_2024 1_31_59 PM.png', 
             githubLink: 'https://github.com/Hari-hara7/web-28-3d.git',
             previewLink: 'https://hari-hara7.github.io/web-28-3d/',
-            description: 'Description for Background 2. Duis tristique lorem sed nulla dignissim, et convallis leo sodales.'
+            description: '3D animation crafted with the powerful combination of GSAP and Three.js. This background delivers smooth, visually captivating animations, making it a perfect addition to enhance your web projects.'
         },
 
         { 
@@ -461,7 +461,7 @@ document.addEventListener('DOMContentLoaded', () => {
             image: 'Design Grid - Google Chrome 6_21_2024 1_33_09 PM.png', 
             githubLink: 'https://github.com/Hari-hara7/web-29-3d.git',
             previewLink: 'https://hari-hara7.github.io/web-29-3d/',
-            description: 'Description for Background 2. Duis tristique lorem sed nulla dignissim, et convallis leo sodales.'
+            description: '3D animation crafted with the powerful combination of GSAP and Three.js. This background delivers smooth, visually captivating animations, making it a perfect addition to enhance your web projects.'
         },
 
         { 
@@ -469,7 +469,7 @@ document.addEventListener('DOMContentLoaded', () => {
             image: 'Design Grid - Google Chrome 6_21_2024 1_34_05 PM.png', 
             githubLink: 'https://github.com/Hari-hara7/GSAP-sample-animation.git',
             previewLink: 'https://hari-hara7.github.io/GSAP-sample-animation/',
-            description: 'Description for Background 2. Duis tristique lorem sed nulla dignissim, et convallis leo sodales.'
+            description: '3D animation crafted with the powerful combination of GSAP and Three.js. This background delivers smooth, visually captivating animations, making it a perfect addition to enhance your web projects.'
         },
         // Add more backgrounds here
     ];
