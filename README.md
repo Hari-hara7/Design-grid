@@ -1,7 +1,7 @@
 # Design Grid
 
 <p align="center">
-  <img src="https://your-image-link.com/image.png" alt="Design Grid Logo" width="200">
+  <img src="Screenshot 2024-11-03 203707.png" alt="Design Grid Logo" >
 </p>
 
 Welcome to **Design Grid**! This project provides free website background patterns and stunning 3D backgrounds that are responsive and customizable. It aims to enhance your web projects with unique visual elements.
